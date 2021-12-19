@@ -1,5 +1,4 @@
-% Magnitude of the reflection coefficient v.s. frequency (Figure 5.3 in
-% the textbook), page 233
+% Magnitude of the reflection coefficient v.s. frequency
 % EIE/ENE 450 Applied Communications and Transmission Lines
 % Instructor: Watcharapan Suwansantisuk
 
